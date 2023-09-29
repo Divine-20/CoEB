@@ -14,6 +14,9 @@
     
 
 }
+.main-land2 {
+    margin-top : 3vh;
+}
 .para-main{
     width: 38%;
     margin-left: 4%;
@@ -40,3 +43,17 @@
     margin-top: 5%;
     background-size: cover;
 }
+.splide__slide img {
+    width: 100%;
+    height: auto;
+  }
+  button {
+    height :24px;
+    width: 24px;
+    background-color : gray;
+    color:white;
+  }
+  #section2 {
+    margin-top: 2em;
+    padding-top: 150px;
+  }
